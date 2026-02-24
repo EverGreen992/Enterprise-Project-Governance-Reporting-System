@@ -37,3 +37,5 @@ This system demonstrates structured project governance, financial monitoring, ri
 - Controlled revision tracking
 # Outcome
 This project simulates enterprise-level project governance practices and demonstrates proficiency in structured reporting, risk management, and collaborative workflow design using Microsoft 365 tools.
+## Executive Dashboard Preview
+! [Executive  Dashboard ](screenshots/dashbord.png)
