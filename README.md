@@ -1,2 +1,10 @@
-# Enterprise-Project-Governance-Reporting-System
-Enterprise-level project governance and reporting system built using Microsoft 365, demonstrating budget monitoring, risk classification, executive dashboarding, and real-time collaboration workflow. 
+enterprise-project-governance-system/
+│
+├── EPGRS_Project_Dashboard.xlsx
+├── EPGRS_Governance_Report.pdf
+├── screenshots/
+│   ├── coauthoring.png
+│   ├── comments.png
+│   ├── track_changes.png
+│   └── version_history.png
+└── README.md
